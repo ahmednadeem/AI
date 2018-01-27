@@ -1,0 +1,9 @@
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\bin\Debug\AI-Bonus-Assignment-1.exe.config
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\bin\Debug\AI-Bonus-Assignment-1.exe
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\bin\Debug\AI-Bonus-Assignment-1.pdb
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI-Bonus-Assignment-1.csprojResolveAssemblyReference.cache
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI_Bonus_Assignment_1.Form1.resources
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI_Bonus_Assignment_1.Properties.Resources.resources
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI-Bonus-Assignment-1.csproj.GenerateResource.Cache
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI-Bonus-Assignment-1.exe
+c:\users\smart\onedrive\documents\visual studio 2015\Projects\AI-Bonus-Assignment-1\AI-Bonus-Assignment-1\obj\Debug\AI-Bonus-Assignment-1.pdb
